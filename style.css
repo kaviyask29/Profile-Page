@@ -109,7 +109,7 @@ ul li a:hover{
     bfzorder-bottom-left-radius: 5px;
     border-top-left-radius: 5px;
 }
-btn{
+.btn{
     width: 100px;
     height: 40px;
     background: #ff7200;
@@ -125,7 +125,7 @@ btn{
 .btn:hover{
     color: #000;
  }
- btn:focus{
+.btn:focus{
     outline: none;
 }
 
@@ -180,7 +180,7 @@ outline: none;
     color: #ff7200;
     font-size: 65px
 }
-form{
+.form{
     width: 250px;
     height: 380px;
     background: linear-gradient(to top, rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%);
